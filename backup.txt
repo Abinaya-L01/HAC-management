@@ -1,0 +1,6 @@
+<div class="aaa">
+<h2 style="color:white; align="left;"><u>ABOUT</u></h2><br>
+
+<p style="color:goldenrod; font-size:24px;">Roles:</p><br>
+<p style="float:left; color:white; font-size:24px;">(i) Our wardens will be responsible for all matters relating to hygiene, sanitation and cleanliness of the hostel in consultation with/ upon the advice of the Chief Medical Officer. <br><br>(ii) They will supervise the work of the sanitation staff, keep a control over their attendance and maintain the Attendance Register.</p>
+</div>
